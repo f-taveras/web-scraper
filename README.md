@@ -10,4 +10,4 @@ __Install beautiful soup:__
     pip install BeautifulSoup4
 
 
-* __DATABASE_URL__ - https://web-scraper-8rlaewb04-sagitario-bluebirds-projects.vercel.app/api/scraper
+* __DATABASE_URL__ - https://web-scraper-3ydjn9cnk-sagitario-bluebirds-projects.vercel.app/api/scraper
